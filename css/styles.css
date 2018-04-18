@@ -1,0 +1,12 @@
+p{
+  font-size:20px;
+  color:red;
+  text-decoration:line-through;
+}
+#smallandblue{
+  font-size:20px;
+  color:blue;
+}
+.greentext{
+  color:green;
+}
